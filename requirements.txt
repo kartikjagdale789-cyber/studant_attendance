@@ -1,0 +1,13 @@
+# ============================================================
+# Student Performance, Attendance & Face Verification Dashboard
+# requirements.txt
+# ============================================================
+streamlit>=1.35.0
+pandas>=2.2.0
+numpy>=1.26.0
+plotly>=5.22.0
+opencv-contrib-python>=4.9.0
+pillow>=10.3.0
+bcrypt>=4.1.0
+python-dotenv>=1.0.0
+pytest>=8.0.0
